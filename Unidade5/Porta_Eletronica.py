@@ -1,6 +1,6 @@
 #Matheus Henrique Guedes de Oliveira
 #119210656 - Ciência da Computação
-#-----------------------------------
+#------------------------------------
 #Porta Eletrônica - Unidade 5
 # Numa empresa, cada funcionário é identificado por um código composto de uma letra maiúscula seguida por 5 dígitos. 
 #Um exemplo seria o código A12345. Funcionários da mesma categoria são identificados pelo caractere inicial do código. 
