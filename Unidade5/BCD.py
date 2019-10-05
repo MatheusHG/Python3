@@ -1,6 +1,6 @@
 #Matheus Henrique
 #119210656 - Ciência da Computação
-#----------------------------------
+#---------------------------------
 #O programa verifica se o BCD é válido (imprime o resultado) ou invalido. E, caso o número tenha mais ou menos 
 #que 8 bits, o programa retorna a mensagem "Tente novamente."
 
