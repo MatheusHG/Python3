@@ -1,6 +1,6 @@
 #Matheus Henrique Guedes de Oliveira
 #119210656
-#------------------------------------
+#-------------------------------------
 #Fundo de Investimento - Unidade 5
 #   Escreva um programa que gerencia operações em um fundo de investimento. 
 #Nesse fundo de investimento simplificado, novas contribuções serã o aceitas desde que a quantia passada não seja menor 
